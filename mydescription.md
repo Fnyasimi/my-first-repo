@@ -13,4 +13,7 @@ My personal description will reside here
 Editing the file by BHKI
 ### Asatsa
 **Role:** Bioinformatics research intern
-**Interest:** Genomics, microbiomes
+
+**Interest:**
+1. Genomics
+2. microbiomes
