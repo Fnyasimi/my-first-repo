@@ -11,3 +11,6 @@ My personal description will reside here
 **No one is getting out alive**
 
 Editing the file by BHKI
+### Asatsa
+**Role:** Bioinformatics research intern
+**Interest:** Genomics, microbiomes
