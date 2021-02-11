@@ -1,5 +1,14 @@
 # COHORT II Internship Training
 
+##Nabwire Asatsa
+
+**Role:** Bioinformatics research password
+
+**Interests**
+
+1. Genomics
+2. Microbiomes
+3. life
 ### Rose Wambui
 
 My Interests
@@ -8,6 +17,7 @@ My Interests
 3. Programming languages
 
 Role: Bioinformatics Intern
+
 
 ### Hebrew Simeon
 Hi
@@ -32,3 +42,4 @@ Bye!
 3. DS
 
 **Role:** Software Developer
+

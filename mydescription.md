@@ -15,3 +15,11 @@ Kauthar - forking practice
 
 Editing the file by BHKI
 
+### Asatsa
+**Role:** Bioinformatics research intern
+
+**Interest:**
+1. Genomics
+2. microbiomes
+
+
