@@ -9,6 +9,15 @@
 1. Genomics
 2. Microbiomes
 3. life
+### Rose Wambui
+
+My Interests
+1. Genomics
+2. Computational Biology
+3. Programming languages
+
+Role: Bioinformatics Intern
+
 
 ### Hebrew Simeon
 Hi
